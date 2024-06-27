@@ -1,0 +1,8 @@
+<suite name="Test-Suite">
+    <test name="All Classes">
+        <classes>
+            <class name="Advance_Module1.testNG" />
+            <class name="Advance_Module1.testNGTests" />
+        </classes>
+    </test>
+</suite>
